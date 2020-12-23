@@ -1,0 +1,12 @@
+D:\Projects\CreateTaskFolder\CreateTaskFolder\bin\Debug\CreateTaskFolder.exe.config
+D:\Projects\CreateTaskFolder\CreateTaskFolder\bin\Debug\CreateTaskFolder.exe
+D:\Projects\CreateTaskFolder\CreateTaskFolder\bin\Debug\CreateTaskFolder.pdb
+D:\Projects\CreateTaskFolder\CreateTaskFolder\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Projects\CreateTaskFolder\CreateTaskFolder\obj\Debug\CreateTaskFolder.csproj.ResolveComReference.cache
+D:\Projects\CreateTaskFolder\CreateTaskFolder\obj\Debug\CreateTaskFolder.CreateTaskFolderForm.resources
+D:\Projects\CreateTaskFolder\CreateTaskFolder\obj\Debug\CreateTaskFolder.Properties.Resources.resources
+D:\Projects\CreateTaskFolder\CreateTaskFolder\obj\Debug\CreateTaskFolder.csproj.GenerateResource.cache
+D:\Projects\CreateTaskFolder\CreateTaskFolder\obj\Debug\CreateTaskFolder.csproj.CoreCompileInputs.cache
+D:\Projects\CreateTaskFolder\CreateTaskFolder\obj\Debug\CreateTaskFolder.exe
+D:\Projects\CreateTaskFolder\CreateTaskFolder\obj\Debug\CreateTaskFolder.pdb
+D:\Projects\CreateTaskFolder\CreateTaskFolder\obj\Debug\CreateTaskFolder.csprojAssemblyReference.cache
